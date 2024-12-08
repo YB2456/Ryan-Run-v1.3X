@@ -28,4 +28,4 @@ This version is a recovered edition after some setbacks during development. Unfo
 
 We appreciate your understanding and hope you enjoy playing despite these limitations!
 
-If you encounter any issues or have feedback, please feel free to contact u
+If you encounter any issues or have feedback, please feel free to contact me!
