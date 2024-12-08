@@ -4,9 +4,9 @@
 
 This version is a recovered edition after some setbacks during development. Unfortunately, some of the original files were lost, so this release might not be as polished as intended.
 
-### How to Run the Game:
+### How to Run the Game in Windows:
 1. **Download the Game**:  
-   Download the game zip file from [itch.io](insert-your-link-here).
+   Download the game zip file from [itch.io](https://yumeth-bandara.itch.io/ryan-run).
    
 2. **Extract the Files**:  
    - Extract the downloaded `.zip` file to a folder on your computer.
@@ -16,6 +16,9 @@ This version is a recovered edition after some setbacks during development. Unfo
    - Open the folder where you extracted the files.
    - Double-click the `Ryan Run.exe` file to start the game.
    - If prompted by Windows (e.g., a security warning), click **Run** to proceed.
+
+### For Mac and Linux users:
+   Go to [itch.io](https://yumeth-bandara.itch.io/ryan-run/devlog/847055/v13x-degraded-versionwindows-only-compatible-edition) for more instructions.
 
 ### Changes in v1.3X:
 - Recovered from a previous backup.
